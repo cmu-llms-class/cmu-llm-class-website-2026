@@ -118,82 +118,65 @@
 
 <h2 id="course-description">Course Description</h2>
 
-<p>Large Language Models Methods and Applications (11-667) is a graduate-level course that aims to provide a holistic view of the current state of large language models.
-The first half of this course starts with the basic of language models, including network architectures, training, inference, and evaluation.
-Then it discusses the interpretation (or attempts of), alignments, and emergent capabilities of large language models, followed by its popular applications in language tasks and new utilizations beyond texts.
-In the second half, this course first presents the techniques of scaling up language model pretraining and recent approaches in making the pretraining of large models and their deployment more efficient.
-It then discusses various concerns surrounding the deployment of large language models and wraps up with the challenges and frontiers of LLM developments.</p>
+<p>Large language models are used today for many more applications than just modelling language. In this course, we learn how Transformer-based neural language models have been adapted for applications ranging from web agents and retrieval systems to music generation and coding and writing assistants. We will systematically examine the ways different applications adapt the base technologies underlying large language models through varying choices in pre-training and fine-tuning data, model architecture, training objective, and usage of inference-time compute.</p>
 
-<p>This course is designed to give graduate-level students an overview of the techniques behind LLMs and a thorough grounding on the fundamentals and cutting-edge developments of LLMs, to prepare them for further research or applied endeavors in this new AI era.</p>
+<h2 id="prerequisites">Prerequisites</h2>
+
+<p>This class is intended for students who have already learned the basics of how language models are implemented and are curious to develop an understanding of the advanced techniques used for customizing them to different applications.
+We expect students to have already taken 11-667, 11-711, 10-423, or another class that teaches language model fundamentals.
+If you have questions about whether you meet this prerequisite, please reach out th ecourse instructors at llms-11-766@andrew.cmu.edu.</p>
 
 <h2 id="learning-goals">Learning Goals</h2>
 
 <p>Students who successfully complete this course will be able to:</p>
 
 <ul>
-  <li>Compare and contrast different models in the LLM ecosystem in order to determine the best model for any given task.</li>
-  <li>Implement and train a neural language model from scratch in Pytorch.</li>
-  <li>Utilize open-source libraries to finetune and do inference with popular pre-trained language models.</li>
-  <li>Understand how to apply LLMs to a variety of downstream applications, and how decisions made during pre-training affect suitability for these tasks.</li>
-  <li>Read and comprehend recent, academic papers on LLMs and have knowledge of the common terms used in them (alignment, scaling laws, RLHF, prompt engineering, instruction tuning, etc.).</li>
-  <li>Design new methodologies to leverage existing large scale language models in novel ways.</li>
+  <li>Determine the best LLM tools for the diversity of different applications</li>
+  <li>Understand how these tools are implemented and feel confident in making modifications to these implementations</li>
+  <li>Read and comprehend recent, academic papers on customizing LLMs for different applications</li>
+  <li>Design a novel LLM system for an application of their choice</li>
 </ul>
-
-<h2 id="prerequisites">Prerequisites</h2>
-
-<p>Students should have a basic understanding of machine learning, equivalent to the material covered by <a href="http://www.cs.cmu.edu/~mgormley/courses/10601/schedule.html">10-301/10-601</a>, and be familiar with concepts in natural language processing, equivalent to those covered by <a href="http://demo.clab.cs.cmu.edu/NLP/">11-411/11-611</a>.</p>
-
-<p>Students are expected to be fluent in Python. Familiarity with deep learning frameworks such as PyTorch will also be helpful.</p>
 
 <h2 id="class-format">Class Format</h2>
 
-<p>Classes will be in person, every Tuesday and Thursday 2:00PM-3:20PM at Baker Hall A51.</p>
+<p>Classes will be in person, every Tuesday and Thursday 11:00PM-12:20PM in DHA302.</p>
 
 <p><strong>Readings</strong>: There will be reading materials for each lecture, which students are required to read through  <em>before</em> the class.</p>
 
-<p><strong>Quizes</strong>: Each class will start with an in-person quiz about the reading materials for the lecture or the material from previous lectures.</p>
-
 <p><strong>Interactive Activities</strong>:
-There will be ungraded, interactive activities interspersed through the lectures.
-These will be things like discussing a topic from the class with those sitting near you or answering questions via polling software.</p>
+There will be interactive activities interspersed through the lectures.
+These will include discussions of the course context and short, ungraded quizzes.</p>
 
-<p><strong>Homework</strong>: There will be six homework assignments, to be completed individually.</p>
+<p><strong>Homework</strong>:
+There will be four homework assignments, to be completed individually.</p>
 
-<p><strong>Exams:</strong> There will be a midterm exam and a final exam.</p>
+<p><strong>Final Project</strong>: Details TBD</p>
+
+<p><strong>Exams:</strong> No exams.</p>
 
 <h2 id="grading">Grading</h2>
 
 <ul>
-  <li>60%: Homeworks
+  <li>40%: Homeworks
     <ul>
       <li>Each homework is worth 10% of your grade.</li>
     </ul>
   </li>
-  <li>20%: Midterm exam
-    <ul>
-      <li>Date TBD</li>
-    </ul>
-  </li>
-  <li>20%: Final exam
-    <ul>
-      <li>Date TBD</li>
-    </ul>
-  </li>
+  <li>40%: Project</li>
+  <li>20%: Scribe notes</li>
 </ul>
 
 <h2 id="late-policy">Late Policy</h2>
 
-<p>Each student has six free late days to use across the six homeworks.
-If you are out of late days, then you will not be able to get credit for subsequent late homeworks. 
-One “day” is defined as anytime between 1 second and 24 hours after the homework deadline.
-The intent of the late day policy it to allow you to take extra time due to unforseen circumstances like illnesses.
-To use your late days on a homework, you <strong>MUST</strong> fill out <a href="https://forms.gle/pScBLUTirr3K7vJc7">this form</a>.</p>
+<p>For each unexcused day your homework is late, we will subtract 5\% from your final grade for the homwork.
+For example, if you submit your homework 1 minute late, and your grade would otherwise be a 97\%, it will drop down to 92\%. If you sumbit 26 hours late, and your grade would other be 90\%, it will drop down to 80\%.</p>
 
-<p>In the event of a medical emergency, please make your personal health, physical and mental, your first priority.
-Seek help from medical and care providers such as University Health Services.
-Students can request medical extensions afterwards with proof/note from providers.
-These will not count toward your 5 days.
-For other emmergencies and absences, students can request extensions with corresponding documentation in a case-by-case basis with instructors.</p>
+<p>You may ask for an excused late day or days any time <strong>before</strong> the deadline. 
+If you excuse is approved, your grade will not be penalized.
+Valid excuses are medical and personal health issues and other extenuating life circumstances.
+Requests for excused late days may be emailed to llms-11-766@andrew.cmu.edu.</p>
+
+<p>In the event of a medical emergency, please make your personal health, physical and mental, your first priority. Seek help from medical and care providers such as University Health Services. Students can request medical extensions after the deadline with proof/note from providers.</p>
 
 <h2 id="accomodations">Accomodations</h2>
 <p>If you have a disability and require
@@ -204,7 +187,8 @@ We will work with you to ensure that accommodations are provided as appropriate.
 
 <h2 id="policy-on-missing-class">Policy on Missing Class</h2>
 
-<p>Classes will not be recorded. If you must miss class, you should arrange to get notes from a friend.</p>
+<p>We will try to record classes, but do not offer a guarantee of this. If you must miss class, you can consult with the scribe notes from the class.
+We do plan to make classes interactive, so please try to attend.</p>
 
 <h2 id="academic-integrity">Academic Integrity</h2>
 <p>Please take some time to read through CMU’s <a href="https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html">Academic Integrity Policy</a>.
@@ -221,7 +205,7 @@ This means that if you use ChatGPT or CoPilot to assist you on a homework, you <
 On each homework, you will be asked to attest to whether you used AI systems to assist on the homework, and if so, in what manner.
 If you have used AI systems to generate any part of your homework, you must submit the prompts/instructions/inputs you used to obtain the generated output.
 Your grading will be based on both the correctness of your homework response and the quality of your prompts/instructions.
-Errors in the generated outputs that appear in your homework response , and non-interesting prompts, e.g., merely putting in the homework questions to the language model, are not intellectual efforts and are unlikely to receive a good grade.</p>
+Errors in the generated outputs that appear in your homework response, and non-interesting prompts, e.g., merely putting in the homework questions to the language model, are not intellectual efforts and are unlikely to receive a good grade.</p>
 
 
 
