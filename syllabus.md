@@ -69,8 +69,8 @@ Your grade will be computed as:
 
 ## Late Policy
 
-For each unexcused day your homework is late, we will subtract 5\% from your final grade for the homwork.
-For example, if you submit your homework 1 minute late, and your grade would otherwise be a 97\%, it will drop down to 92\%. If you sumbit 26 hours late, and your grade would other be 90\%, it will drop down to 80\%.
+For each unexcused day your homework is late, we will subtract 5% from your final grade for the homwork.
+For example, if you submit your homework 1 minute late, and your grade would otherwise be a 97%, it will drop down to 92%. If you sumbit 26 hours late, and your grade would other be 90%, it will drop down to 80%.
 
 You may ask for an excused late day or days any time **before** the deadline. 
 If you excuse is approved, your grade will not be penalized.
