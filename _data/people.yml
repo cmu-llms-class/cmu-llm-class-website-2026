@@ -1,33 +1,13 @@
 instructors:
-  - name: Chenyan Xiong
-    profile_pic: /_images/pp/chenyan.jpg
-    webpage: https://www.cs.cmu.edu/~cx/
+  - name: Fernando Diaz
+    profile_pic: /_images/pp/placeholder.png
+    webpage: https://841.io/
   - name: Daphne Ippolito
     profile_pic: /_images/pp/daphne.png
     webpage: https://www.daphnei.com/
 
 teaching_assistants:
-  - name: Cathy Jiao
-    profile_pic: /_images/pp/cathy.jpg
+  - name: Tobe Announced
+    profile_pic: /_images/pp/placeholder.png
     webpage: https://cathyjiao.github.io/
-  - name: Joao Coelho
-    profile_pic: /_images/pp/joao.jpg
-    webpage: https://jmvcoelho.github.io/
-  - name: Ava Yan
-    profile_pic: /_images/pp/ava_yan.png
-    webpage: https://lti.cmu.edu/people/students/yan-lan.html
-  - name: Kshitish Ghate
-    profile_pic: /_images/pp/kshitish.jpg
-    webpage: https://lti.cmu.edu/people/students/ghate-kshitish.html
-  - name: Xinyue Liu
-    profile_pic: /_images/pp/xinyue.jpg
-    webpage: https://cauchy221.github.io/
-  - name: Nishant Subramani
-    profile_pic: /_images/pp/nishant.jpg
-    webpage: https://nishantsubramani.github.io/
-  - name: Yiming Zhang
-    profile_pic: /_images/pp/yiming.jpg
-    webpage: https://lti.cmu.edu/people/students/zhang-yiming.html
-  - name: Harshita Diddee
-    profile_pic: /_images/pp/harshita_diddee.jpg
-    webpage: https://harshitadd.netlify.app
+

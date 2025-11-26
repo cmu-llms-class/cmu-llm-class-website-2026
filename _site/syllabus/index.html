@@ -11,12 +11,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title> Syllabus - Large Language Models: Methods and Applications / Fall 2024 </title>
-  <meta name="description" content="Syllabus - Large Language Models: Methods and Applications / Fall 2024">
+  <title> Syllabus - Large Language Models: Methods and Applications / Spring 2026 </title>
+  <meta name="description" content="Syllabus - Large Language Models: Methods and Applications / Spring 2026">
   
   <link rel="stylesheet" href="/_css/main.css">
   <link rel="canonical" href="http://localhost:4000/syllabus/">
-  <link rel="alternate" type="application/rss+xml" title="Large Language Models: Methods and Applications / Fall 2024 - Carnegie Mellon University" href="http://localhost:4000/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="Large Language Models: Methods and Applications / Spring 2026 - Carnegie Mellon University" href="http://localhost:4000/feed.xml" />
 <link rel='stylesheet' id='open-sans-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.2.4' type='text/css' media='all' />
 <link href='https://fonts.googleapis.com/css?family=Titillium+Web:600italic,600,400,400italic' rel='stylesheet' type='text/css'>
 
@@ -36,9 +36,9 @@
           <td><img width="75" src="/_images/logo.png" valign="middle"></td>
           <td style="padding-left:10px;"><a class="schoolname" style="font-size: 15px;" class="site-title" href="https://www.lti.cs.cmu.edu/">Carnegie Mellon University</a>
           <br/>
-          <span style="margin-top: -2px;margin-bottom: -10px;" class="site-title"><a href="/" title="Large Language Models: Methods and Applications / Fall 2024 - Carnegie Mellon University"><b>Large Language Models: Methods and Applications</a></b></span>
+          <span style="margin-top: -2px;margin-bottom: -10px;" class="site-title"><a href="/" title="Large Language Models: Methods and Applications / Spring 2026 - Carnegie Mellon University"><b>Large Language Models: Methods and Applications</a></b></span>
           <br/>
-          <span class="coursesemeter" style="font-size: 12px;font-weight: bold;margin-top: 10px;display: block;">Fall 2024</span>
+          <span class="coursesemeter" style="font-size: 12px;font-weight: bold;margin-top: 10px;display: block;">Spring 2026</span>
           </td>
         </tr></table>
 
@@ -111,20 +111,22 @@
     <h2 id="important-details">Important Details</h2>
 
 <ul>
-  <li><strong>Location</strong>: <a href="https://www.cmu.edu/finance/property-space/floorplan-room/acad-admin/BPH/index.html">Baker Hall</a> A51</li>
-  <li><strong>Time</strong>: Tuesdays and Thursdays 2 PM - 3:20 PM</li>
+  <li><strong>Location</strong>: DH A302</li>
+  <li><strong>Time</strong>: Tuesdays and Thursdays 11 AM - 12:20 PM</li>
   <li><strong>Instructor email</strong>: llms-11-667 @ andrew.cmu.edu</li>
 </ul>
 
 <h2 id="course-description">Course Description</h2>
 
-<p>Large language models are used today for many more applications than just modelling language. In this course, we learn how Transformer-based neural language models have been adapted for applications ranging from web agents and retrieval systems to music generation and coding and writing assistants. We will systematically examine the ways different applications adapt the base technologies underlying large language models through varying choices in pre-training and fine-tuning data, model architecture, training objective, and usage of inference-time compute.</p>
+<p>Large language models are used today for many more applications than just modelling language. In this course, we learn how Transformer-based neural language models have been adapted for applications ranging from web agents and retrieval systems to music generation and coding and writing assistants. We will systematically examine the ways different applications adapt the base technologies underlying large language models. For each application, we will aim to answer the following questions:</p>
 
-<h2 id="prerequisites">Prerequisites</h2>
-
-<p>This class is intended for students who have already learned the basics of how language models are implemented and are curious to develop an understanding of the advanced techniques used for customizing them to different applications.
-We expect students to have already taken 11-667, 11-711, 10-423, or another class that teaches language model fundamentals.
-If you have questions about whether you meet this prerequisite, please reach out th ecourse instructors at llms-11-766@andrew.cmu.edu.</p>
+<ul>
+  <li>Can the application be developed with a general-purpose frontier language model, or is application-specific training beneficial or necessary?</li>
+  <li>If training: what do the data, model architecture, and training procedure look like?</li>
+  <li>What is the computational infrastructure (for example, inference algorithms, output filtering, user interfaces) one needs to build around the LLM to support the application?</li>
+  <li>What does evaluation of the LLM’s usefulness look like for this application?</li>
+  <li>What are the limitations and open challenges for applying LLMs to the application?</li>
+</ul>
 
 <h2 id="learning-goals">Learning Goals</h2>
 
@@ -137,6 +139,12 @@ If you have questions about whether you meet this prerequisite, please reach out
   <li>Design a novel LLM system for an application of their choice</li>
 </ul>
 
+<h2 id="prerequisites">Prerequisites</h2>
+
+<p>This class is intended for students who have already learned the basics of how language models are implemented and are curious to develop an understanding of the advanced techniques used for customizing them to different applications.
+We expect students to have already taken 11-667, 11-711, 10-423, or another class that teaches language model fundamentals.
+If you have questions about whether you meet this prerequisite, please reach out th ecourse instructors at llms-11-766@andrew.cmu.edu.</p>
+
 <h2 id="class-format">Class Format</h2>
 
 <p>Classes will be in person, every Tuesday and Thursday 11:00PM-12:20PM in DHA302.</p>
@@ -145,25 +153,32 @@ If you have questions about whether you meet this prerequisite, please reach out
 
 <p><strong>Interactive Activities</strong>:
 There will be interactive activities interspersed through the lectures.
-These will include discussions of the course context and short, ungraded quizzes.</p>
+These will include discussions of the course context and short quizzes.</p>
 
-<p><strong>Homework</strong>:
-There will be four homework assignments, to be completed individually.</p>
+<h2 id="assessment">Assessment</h2>
 
-<p><strong>Final Project</strong>: Details TBD</p>
+<p><strong>Homeworks</strong>:
+There will be three homework assignments, to be completed individually.
+The homeworks will comprise a mixture of written and coding questions.</p>
 
-<p><strong>Exams:</strong> No exams.</p>
+<p><strong>Final Project</strong>:
+Students will complete a final project that focuses on exploring in depth a specific application of their choice.</p>
 
-<h2 id="grading">Grading</h2>
+<p><strong>Scribe Notes</strong>:
+Each student will be assigned one lecture to act as scribe and prepare notes to share with the rest of the class one week after the lecture.  Notes should be written in a prose style and will be evaluated for completeness, including content and references. In the event that there are more students than lectures, students will be assigned to scribe in pairs.</p>
+
+<p><strong>Grading:</strong>
+Your grade will be computed as:</p>
 
 <ul>
-  <li>40%: Homeworks
+  <li>30%: Homeworks
     <ul>
       <li>Each homework is worth 10% of your grade.</li>
     </ul>
   </li>
   <li>40%: Project</li>
   <li>20%: Scribe notes</li>
+  <li>10%: In-class participation</li>
 </ul>
 
 <h2 id="late-policy">Late Policy</h2>

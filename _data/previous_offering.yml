@@ -1,4 +1,8 @@
 offerings:
-  - title: Fall 2023
+  - title: Fall 2023, 11-667
     url: https://2023.cmu-llms.org
+  - title: Fall 2024, 11-667
+    url: https://2024.cmu-llms.org
+  - title: Fall 2025, 11-667
+    url: https://2025.cmu-llms.org
   

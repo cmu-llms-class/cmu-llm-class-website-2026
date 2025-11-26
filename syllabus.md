@@ -7,19 +7,19 @@ permalink: /syllabus/
 
 ## Important Details
 
-* **Location**: [Baker Hall](https://www.cmu.edu/finance/property-space/floorplan-room/acad-admin/BPH/index.html) A51
-* **Time**: Tuesdays and Thursdays 2 PM - 3:20 PM
+* **Location**: DH A302
+* **Time**: Tuesdays and Thursdays 11 AM - 12:20 PM
 * **Instructor email**: llms-11-667 @ andrew.cmu.edu
 
 ## Course Description
 
-Large language models are used today for many more applications than just modelling language. In this course, we learn how Transformer-based neural language models have been adapted for applications ranging from web agents and retrieval systems to music generation and coding and writing assistants. We will systematically examine the ways different applications adapt the base technologies underlying large language models through varying choices in pre-training and fine-tuning data, model architecture, training objective, and usage of inference-time compute.
+Large language models are used today for many more applications than just modelling language. In this course, we learn how Transformer-based neural language models have been adapted for applications ranging from web agents and retrieval systems to music generation and coding and writing assistants. We will systematically examine the ways different applications adapt the base technologies underlying large language models. For each application, we will aim to answer the following questions:
 
-## Prerequisites
-
-This class is intended for students who have already learned the basics of how language models are implemented and are curious to develop an understanding of the advanced techniques used for customizing them to different applications.
-We expect students to have already taken 11-667, 11-711, 10-423, or another class that teaches language model fundamentals.
-If you have questions about whether you meet this prerequisite, please reach out th ecourse instructors at llms-11-766@andrew.cmu.edu.
+- Can the application be developed with a general-purpose frontier language model, or is application-specific training beneficial or necessary?
+- If training: what do the data, model architecture, and training procedure look like?
+- What is the computational infrastructure (for example, inference algorithms, output filtering, user interfaces) one needs to build around the LLM to support the application?
+- What does evaluation of the LLM's usefulness look like for this application?
+- What are the limitations and open challenges for applying LLMs to the application?
 
 ## Learning Goals
 
@@ -30,6 +30,12 @@ Students who successfully complete this course will be able to:
 * Read and comprehend recent, academic papers on customizing LLMs for different applications
 * Design a novel LLM system for an application of their choice
 
+## Prerequisites
+
+This class is intended for students who have already learned the basics of how language models are implemented and are curious to develop an understanding of the advanced techniques used for customizing them to different applications.
+We expect students to have already taken 11-667, 11-711, 10-423, or another class that teaches language model fundamentals.
+If you have questions about whether you meet this prerequisite, please reach out th ecourse instructors at llms-11-766@andrew.cmu.edu.
+
 ## Class Format
 
 Classes will be in person, every Tuesday and Thursday 11:00PM-12:20PM in DHA302.
@@ -38,22 +44,28 @@ Classes will be in person, every Tuesday and Thursday 11:00PM-12:20PM in DHA302.
 
 **Interactive Activities**:
 There will be interactive activities interspersed through the lectures.
-These will include discussions of the course context and short, ungraded quizzes.
+These will include discussions of the course context and short quizzes.
 
-**Homework**:
-There will be four homework assignments, to be completed individually.
+## Assessment
 
-**Final Project**: Details TBD
+**Homeworks**:
+There will be three homework assignments, to be completed individually.
+The homeworks will comprise a mixture of written and coding questions.
 
-**Exams:** No exams.
+**Final Project**:
+Students will complete a final project that focuses on exploring in depth a specific application of their choice.
 
+**Scribe Notes**:
+Each student will be assigned one lecture to act as scribe and prepare notes to share with the rest of the class one week after the lecture.  Notes should be written in a prose style and will be evaluated for completeness, including content and references. In the event that there are more students than lectures, students will be assigned to scribe in pairs.
 
-## Grading
+**Grading:**
+Your grade will be computed as:
 
-* 40%: Homeworks
+* 30%: Homeworks
     * Each homework is worth 10% of your grade.
 * 40%: Project
 * 20%: Scribe notes
+* 10%: In-class participation
 
 ## Late Policy
 

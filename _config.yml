@@ -1,7 +1,7 @@
 # Site settings
 course_name: "Large Language Models: Methods and Applications"
-course_description: "Large Language Models Methods and Applications (11-667) is a graduate-level course that aims to provide a holistic view of the current state of large language models. " 
-course_semester: "Fall 2024"
+course_description: "Large Language Model Applications (11-766) is a graduate-level course that aims to teach students how to apply core LLM technology to a wide range of practical, academic, and exploratory applications." 
+course_semester: "Spring 2026"
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cmu-llms.org" # the base hostname & protocol for your site
