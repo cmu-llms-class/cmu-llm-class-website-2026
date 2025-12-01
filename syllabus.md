@@ -9,7 +9,7 @@ permalink: /syllabus/
 
 * **Location**: DH A302
 * **Time**: Tuesdays and Thursdays 11 AM - 12:20 PM
-* **Instructor email**: llms-11-667 @ andrew.cmu.edu
+* **Instructor email**: llms-11-766@andrew.cmu.edu
 
 ## Course Description
 
