@@ -10,9 +10,9 @@ layout: home
 
 ### Office Hours
 
-* **Daphne**: TBD
+* **Daphne**: Thursdays 12:30 - 1:30 in GHC 6407
 * **Fernando**: TBD
-* **TAs**: Mondays 1 PM - 2 PM in GHC 5417 and Thursdays 11 AM -12 PM in Wean Hall 3110, starting in Week 2
+* **TAs**: TBD
 
 ## Contacting the Instructors
 
