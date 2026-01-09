@@ -18,4 +18,4 @@ layout: home
 
 For all questions related to course materials, please post to Piazza.
 
-For questions about grades, accomodations, or any other specific situation, reach out to the instructor email: [llms-11-766@andrew.cmu.edu](mailto:llms-11-766@andrew.cmu.edu). Any course-related emails sent to other addresses will be ignored.
+For questions about grades, accommodations, or any other specific situation, reach out to the instructor email: [llms-11-766@andrew.cmu.edu](mailto:llms-11-766@andrew.cmu.edu). Any course-related emails sent to other addresses will be ignored.
