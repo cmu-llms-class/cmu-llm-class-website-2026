@@ -34,11 +34,11 @@ Students who successfully complete this course will be able to:
 
 This class is intended for students who have already learned the basics of how language models are implemented and are curious to develop an understanding of the advanced techniques used for customizing them to different applications.
 We expect students to have already taken 11-667, 11-711, 10-423, or another class that teaches language model fundamentals.
-If you have questions about whether you meet this prerequisite, please reach out th ecourse instructors at llms-11-766@andrew.cmu.edu.
+If you have questions about whether you meet this prerequisite, please reach out the course instructors at llms-11-766@andrew.cmu.edu.
 
 ## Class Format
 
-Classes will be in person, every Tuesday and Thursday 11:00PM-12:20PM in DHA302.
+Classes will be in person, every Tuesday and Thursday 11:00AM-12:20PM in DH A302.
 
 **Readings**: There will be reading materials for each lecture, which students are required to read through  _before_ the class.
 
@@ -69,17 +69,17 @@ Your grade will be computed as:
 
 ## Late Policy
 
-For each unexcused day your homework is late, we will subtract 5% from your final grade for the homwork.
-For example, if you submit your homework 1 minute late, and your grade would otherwise be a 97%, it will drop down to 92%. If you sumbit 26 hours late, and your grade would other be 90%, it will drop down to 80%.
+For each unexcused day your homework is late, we will subtract 5% from your final grade for the homework.
+For example, if you submit your homework 1 minute late, and your grade would otherwise be a 97%, it will drop down to 92%. If you submit 26 hours late, and your grade would otherwise be 90%, it will drop down to 80%.
 
 You may ask for an excused late day or days any time **before** the deadline. 
-If you excuse is approved, your grade will not be penalized.
+If your excuse is approved, your grade will not be penalized.
 Valid excuses are medical and personal health issues and other extenuating life circumstances.
 Requests for excused late days may be emailed to llms-11-766@andrew.cmu.edu.
 
 In the event of a medical emergency, please make your personal health, physical and mental, your first priority. Seek help from medical and care providers such as University Health Services. Students can request medical extensions after the deadline with proof/note from providers. 
 
-## Accomodations
+## Accommodations
 If you have a disability and require
 accommodations, please contact Catherine Getchell, Director of Disability Resources, 412-268-6121,
 getchell@cmu.edu.
@@ -102,7 +102,7 @@ While you may discuss strategies amongst yourselves, all experiments and analyse
 
 ### Use of Language Models
 Using a language model to generate any part of a homework answer without attribution will be considered a violation of academic integrity.
-This means that if you use ChatGPT or CoPilot to assist you on a homework, you **must** state so explicitly within your response.
+This means that if you use ChatGPT or Copilot to assist you on a homework, you **must** state so explicitly within your response.
 On each homework, you will be asked to attest to whether you used AI systems to assist on the homework, and if so, in what manner.
 If you have used AI systems to generate any part of your homework, you must submit the prompts/instructions/inputs you used to obtain the generated output.
 Your grading will be based on both the correctness of your homework response and the quality of your prompts/instructions.
