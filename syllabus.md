@@ -34,7 +34,7 @@ Students who successfully complete this course will be able to:
 
 This class is intended for students who have already learned the basics of how language models are implemented and are curious to develop an understanding of the advanced techniques used for customizing them to different applications.
 We expect students to have already taken 11-667, 11-711, 10-423, or another class that teaches language model fundamentals.
-If you have questions about whether you meet this prerequisite, please reach out the course instructors at llms-11-766@andrew.cmu.edu.
+If you have questions about whether you meet this prerequisite, please reach out to the course instructors at llms-11-766@andrew.cmu.edu.
 
 ## Class Format
 
