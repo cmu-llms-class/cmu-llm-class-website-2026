@@ -101,9 +101,8 @@ However, we encourage you to ask questions on Piazza and in office hours.
 While you may discuss strategies amongst yourselves, all experiments and analyses should be your own.
 
 ### Use of Language Models
-Using a language model to generate any part of a homework answer without attribution will be considered a violation of academic integrity.
-This means that if you use ChatGPT or Copilot to assist you on a homework, you **must** state so explicitly within your response.
-On each homework, you will be asked to attest to whether you used AI systems to assist on the homework, and if so, in what manner.
-If you have used AI systems to generate any part of your homework, you must submit the prompts/instructions/inputs you used to obtain the generated output.
-Your grading will be based on both the correctness of your homework response and the quality of your prompts/instructions.
-Errors in the generated outputs that appear in your homework response, and non-interesting prompts, e.g., merely putting in the homework questions to the language model, are not intellectual efforts and are unlikely to receive a good grade.
+Using a language model to generate any part of a homework answer will be considered a violation of academic integrity.
+To reiterate, all written words in your homework and project reports should be written by yourself, without the use of AI (unless you are quoting AI outputs as part of your answer).
+
+You may however use AI to learn more about the subject material of the class and to help you write code.
+If you do use AI systems to help with the homework, please fill out the "Use of AI" question on the homework to help the instructors understand your usage.
