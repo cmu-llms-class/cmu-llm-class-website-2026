@@ -106,3 +106,4 @@ To reiterate, all written words in your homework and project reports should be w
 
 You may however use AI to learn more about the subject material of the class and to help you write code.
 If you do use AI systems to help with the homework, please fill out the "Use of AI" question on the homework to help the instructors understand your usage.
+Use of AI without making an honest attempt at answering this question will be considered a violation of academic integrity.
