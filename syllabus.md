@@ -58,14 +58,17 @@ Students will complete a final project that focuses on exploring in depth a spec
 **Scribe Notes**:
 Each student will be assigned one lecture to act as scribe and prepare notes to share with the rest of the class one week after the lecture.  Notes should be written in a prose style and will be evaluated for completeness, including content and references. In the event that there are more students than lectures, students will be assigned to scribe in pairs.
 
+**In Class Participation**:
+We will use Poll Everywhere to run in-class polls and quizzes. Participate in at least 80% of these for full participation marks.
+
 **Grading:**
 Your grade will be computed as:
 
 * 30%: Homeworks
     * Each homework is worth 10% of your grade.
 * 40%: Project
-* 20%: Scribe notes
-* 10%: In-class participation
+* 10%: Scribe notes
+* 20%: In-class participation
 
 ## Late Policy
 
