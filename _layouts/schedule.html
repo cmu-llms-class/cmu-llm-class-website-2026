@@ -37,8 +37,6 @@ layout: default
         <li class="table-row table-row-{{ event.type}}">
             {% if event.type %}
                 {% include schedule_row_{{ event.type }}.html event=event %}
-            {% else %}
-                {{ event | inspect }}
             {% endif %}
         </li>
         {% endfor %}
