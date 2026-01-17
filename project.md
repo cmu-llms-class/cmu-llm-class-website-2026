@@ -4,8 +4,6 @@ title: Project
 permalink: /project/
 ---
 
-## Goals
-
 To get started with your project, we’d like you to think about some of the ways people are currently using language models or could be using them in the near future if they worked better.  
 You should pick one of these current or prospective use cases of language models to delve into over the course of the semester.  
 Your chosen use case should go beyond the applications that are covered in class.  
