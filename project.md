@@ -29,7 +29,7 @@ You may choose between two tracks for the project:
 The project may be completed either individually or in a team of two students.
 Teams of two will be expected to have more ambitious project plans than teams of one.
 
-## Initial Pitch (Due 11:59 PM on 1/22)
+## Initial Pitch (Due 11:59 PM on 1/23)
 
 Please submit on Canvas the following:
 
