@@ -12,7 +12,7 @@ layout: home
 
 * **Daphne**: Tuesdays 10 - 10:45 in GHC 6407
 * **Fernando**: Wednesdays 12:00 - 1:00 in GHC 5405
-* **TAs**: TBD
+* **TAs**: Tuesdays 14:30 - 15:30 Tuseday and 12:30 - 13:30 Thursday in Wean Hall 3002
 
 ## Contacting the Instructors
 
