@@ -91,7 +91,7 @@ We will work with you to ensure that accommodations are provided as appropriate.
 
 ## Policy on Missing Class
 
-We will try to record classes, but do not offer a guarantee of this. If you must miss class, you can consult with the scribe notes from the class.
+If you must miss class, you can consult the scribe notes from the class.
 We do plan to make classes interactive, so please try to attend.
 
 ## Academic Integrity
