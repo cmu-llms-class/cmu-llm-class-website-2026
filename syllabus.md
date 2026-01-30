@@ -96,7 +96,7 @@ We do plan to make classes interactive, so please try to attend.
 
 ## Academic Integrity
 Please take some time to read through CMU's [Academic Integrity Policy](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).
-Students who violate this policy will be subject to the disciplinary actions described in the [Student Handbook](https://www.cmu.edu/student-affairs/theword/academic-discipline/index.html).
+Students who violate this policy will be subject to the disciplinary actions described in the [Student Handbook](https://www.cmu.edu/student-affairs/theword/academic/index.html).
 
 ### Collaboration on Homeworks
 The six homeworks should be completed individually.
