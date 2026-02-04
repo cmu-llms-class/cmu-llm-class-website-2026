@@ -7,7 +7,7 @@ permalink: /scribe/
 Scribe notes provide an archive of material covered in advanced technical courses. Each lecture, a designated 1-3 students will take comprehensive notes that capture not just what was said, but also synthesizes the material into a polished document for the entire class. This practice benefits the scribe through deep engagement with the material and simultaneously creates a resource that extends beyond the semester for future students. Unlike personal notes, scribe notes are expected to be technically accurate, comprehensive, and enhanced with additional context: scribes add relevant recent papers, provide worked examples that weren't fully developed in lecture, explain conceptual foundations, and analyze failure modes or edge cases.  Scribe notes also serve as practical references containing tested prompt templates, implementation patterns, and evaluation frameworks that you can directly reference in your projects this semester or beyond.
 
 # Template
-You must submit your notes in the template linked [here](https://storage.googleapis.com/cmu-llms/2025/11_766_Scribe_Notes_Template.zip).
+You must submit your notes in the template linked [here](https://storage.googleapis.com/cmu-llms/2026/11_766_Scribe_Notes_Template.zip).
 
 # Due Date and Submission
 Scribe notes will be due exactly a week after the lecture (e.g. if you are responsible for the January 15 lecture, your notes are due by 11:59 PM on January 22).

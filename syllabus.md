@@ -91,12 +91,12 @@ We will work with you to ensure that accommodations are provided as appropriate.
 
 ## Policy on Missing Class
 
-We will try to record classes, but do not offer a guarantee of this. If you must miss class, you can consult with the scribe notes from the class.
+If you must miss class, you can consult the scribe notes from the class.
 We do plan to make classes interactive, so please try to attend.
 
 ## Academic Integrity
 Please take some time to read through CMU's [Academic Integrity Policy](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).
-Students who violate this policy will be subject to the disciplinary actions described in the [Student Handbook](https://www.cmu.edu/student-affairs/theword/academic-discipline/index.html).
+Students who violate this policy will be subject to the disciplinary actions described in the [Student Handbook](https://www.cmu.edu/student-affairs/theword/academic/index.html).
 
 ### Collaboration on Homeworks
 The six homeworks should be completed individually.
@@ -104,9 +104,9 @@ However, we encourage you to ask questions on Piazza and in office hours.
 While you may discuss strategies amongst yourselves, all experiments and analyses should be your own.
 
 ### Use of Language Models
-Using a language model to generate any part of a homework answer will be considered a violation of academic integrity.
+Using a language model to generate any part of a homework answer, scribe notes, and project report will be considered a violation of academic integrity.
 To reiterate, all written words in your homework and project reports should be written by yourself, without the use of AI (unless you are quoting AI outputs as part of your answer).
 
-You may however use AI to learn more about the subject material of the class and to help you write code.
+You may however use AI to learn more about the subject material of the class, help organize your thoughts, or to help you write code.
 If you do use AI systems to help with the homework, please fill out the "Use of AI" question on the homework to help the instructors understand your usage.
 Use of AI without making an honest attempt at answering this question will be considered a violation of academic integrity.
