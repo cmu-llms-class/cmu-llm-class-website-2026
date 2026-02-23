@@ -63,6 +63,6 @@ Please submit on Canvas the following. We will provide you a template, which wil
 
 TBD
 
-## Final Report and Presentation (Due before class on 4/21)
+## Final Report and Presentation (Due 11:00 AM on 4/21 (Before class))
 
 TBD
