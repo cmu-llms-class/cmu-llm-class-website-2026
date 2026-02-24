@@ -99,7 +99,7 @@ Please take some time to read through CMU's [Academic Integrity Policy](https://
 Students who violate this policy will be subject to the disciplinary actions described in the [Student Handbook](https://www.cmu.edu/student-affairs/theword/academic/index.html).
 
 ### Collaboration on Homeworks
-The six homeworks should be completed individually.
+The three homeworks should be completed individually.
 However, we encourage you to ask questions on Piazza and in office hours.
 While you may discuss strategies amongst yourselves, all experiments and analyses should be your own.
 
