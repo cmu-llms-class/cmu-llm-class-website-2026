@@ -84,7 +84,7 @@ For research track projects, you should model your presenation after a conferenc
 
 Write a final report. We will provided more instructions and a template soon.
 
-###  In class activities:
+###  In class activities for last week:
 Write a project report. These are due Thursday, April 30 at 11:59 PM. The usual late penalty applies.
 
 - Applied track: demo session on Tuesday, April 21. All applied track students will be expected to present a live demo to your classmates and instructors. Note, this class with take place in GHC 6115.
