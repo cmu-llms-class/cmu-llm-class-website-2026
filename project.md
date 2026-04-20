@@ -73,9 +73,9 @@ Please submit on Canvas a short (2–3 pages) progress update on your project. W
 
 Our goal with the midpoint check-in is to understand how your project is progressing, whether your plans have changed, and where feedback may be helpful as you work toward the final report and presentation.
 
-## Final Report and Presentation (Due 11:00 AM on 4/21 (Before class))
+## Final Report and Presentation
 
-###  Due Monday, April 20 at 11:59 PM (no exceptions):
+###  Due Monday, April 21 at 11 AM (before class, no exception):
 Submit a 10-14 minute video presentation on your project's findings. You may record this using Zoom, Quicktime, or any other software. For teams of two, it is ok if only one person speaks, but all team members should contribute to preparing the presentation.
 
 For research track projects, you should model your presenation after a conference oral. You should present on your research question, your results, and what next steps might be if you were to continue down this line of inquiry. For applied track projects, you should pitch your application, describe how it works (emphasizing how you incorporated language models), and mention what next steps might be if you were to continue building out the application.
@@ -98,7 +98,7 @@ Write a final report. We encourage you to reuse text from your proposal. Your re
 
 ###  In class activities for last week:
 
-- Applied track: demo session on Tuesday, April 21. All applied track students will be expected to present a live demo to your classmates and instructors. Note, this class with take place in GHC 6115.
+- Applied track: demo session on Tuesday, April 21. All applied track students will be expected to present a live demo to your classmates and instructors. Note, this class will take place in the regular classroom, Doherty Hall A302.
 - Research track: spotlight talks on Thursday, April 23. Approximately 6 projects will be selected to give live talks to the class.
 
 For participation marks for these two classes, we ask you to pick two projects from each day and write down a bit of feedback or questions which we will share with the team. Feedback will be due by 11:59 PM on April 23.
