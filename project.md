@@ -4,7 +4,7 @@ title: Project
 permalink: /project/
 ---
 
-# CLICK [HERE](https://docs.google.com/forms/d/e/1FAIpQLSdPDZLNSJ_Fca_-wu5s6aDHbjZjeogBQVOb2Ul3JtIvstiEOA/viewform) FOR FEEDBACK FORM.
+# CLICK [HERE](https://forms.gle/yFD4rgmGF2JR4mss6) FOR FEEDBACK FORM
 
 To get started with your project, we’d like you to think about some of the ways people are currently using language models or could be using them in the near future if they worked better.  
 You should pick one of these current or prospective use cases of language models to delve into over the course of the semester.  
